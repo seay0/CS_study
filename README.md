@@ -1,7 +1,8 @@
 # CS Study
 
                                     
-> 2023-07-10 ~  
+> 2023-07-10 ~
+
 > [참고 자료 #1](https://github.com/gyoogle/tech-interview-for-developer)  
 > [참고 자료 #2](https://www.notion.so/codestates/08a2e00842144575a220fcd2b2825e33)
 
