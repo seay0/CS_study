@@ -13,7 +13,7 @@
 | :--------------------------------------: | :--: | :-: |
 | [김성훈](https://github.com/Hoonology) |     |     |
 | [박성필](https://github.com/psp3742) |     |     |
-| [우도현](https://github.com/devops_04_DoHyeon) |     |     |
+| [우도현](https://github.com/teddy_woo) |     |     |
 | [오시연](https://github.com/seay0) |     |     |
 | [오승택](https://github.com/ostarry0728) |     |     |
 | [이동욱](https://github.com/dongukuklee) |     |     |
