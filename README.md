@@ -8,17 +8,7 @@
 
 <br>
 
-## 👨‍💻 참여자 / 출석 경고
-
-|                   이름                   | 출석 | etc |
-| :--------------------------------------: | :--: | :-: |
-| [김성훈](https://github.com/Hoonology) |     |     |
-| [우도현](https://github.com/teddy-woo) |     |     |
-| [오시연](https://github.com/seay0) |     |     |
-| [오승택](https://github.com/ostarry0728) |     |     |
-| [이동욱](https://github.com/dongukuklee) |     |     |
-| [주민경](https://github.com/MinkyungJ) |     |     |
-
+## 👨‍💻 참여자 / 출석
 
 | 이름 / 출석 | [김성훈](https://github.com/Hoonology) | [우도현](https://github.com/teddy-woo) | [오시연](https://github.com/seay0) |  [오승택](https://github.com/ostarry0728) | [이동욱](https://github.com/dongukuklee) | [주민경](https://github.com/MinkyungJ) |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
