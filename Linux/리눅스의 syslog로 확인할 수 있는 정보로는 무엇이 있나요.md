@@ -15,7 +15,7 @@ Linux의 syslog는 다양한 소스에서 로그 메시지를 수집하여 시�
 
 - **syslog의 로그 메시지는 어떻게 분류할 수 있나요?**
 
-    A. syslog는 로그 메시지를 다양한 심각도 수준으로 분류해 시스템 이벤트 문제 해결 및 모니터링에 도움이 될 수 있습니다. 심각도는 Debug, Info, Notice, Warning, Error, Critical, Alert, Emergency 순으로 낮아집니다.
+    A. syslog는 로그 메시지를 다양한 심각도 수준으로 분류해 시스템 이벤트 문제 해결 및 모니터링에 도움이 될 수 있습니다. 심각도는 Debug, Info, Notice, Warning, Error, Critical, Alert, Emergency 순으로 높아집니다.
     
     - **Debug** : 프로그램 실행에 대한 자세한 정보를 제공하는 디버깅 목적으로 사용되는 메시지
     - **Info** : 정상적인 시스템 작동 또는 이벤트를 강조 표시하는 정보 메시지
