@@ -19,7 +19,7 @@
     - 제로 트러스트의 설계는 모든 접근을 거부 상태로 두고, 접근하는 ID의 신뢰를 평가하며 지속적으로 학습하는 시스템입니다.
     - 사용자의 업무에 영향을 주는 것은 예를들어, 1시간 마다 로그인을 해야하거나, 로그인 마다 복잡한 ID/PW와 자주 바뀌는 PW, 등 편의성 문제를 의미함
     - 이렇게 사용자 경험에 불편함이 이어진다면, 업무 불만으로 이직 및 퇴사와도 연결되어질 수 있으며, 업무를 수월하게 진행하려 보안 우회 시도가 발생할 수 있습니다.
-  <https://www.techtarget.com/searchsecurity/definition/zero-trust-model-zero-trust-network>
+    - <https://www.techtarget.com/searchsecurity/definition/zero-trust-model-zero-trust-network>
 
 ---
 
